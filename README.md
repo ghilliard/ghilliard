@@ -1,8 +1,9 @@
 # What's up?! My name is Gabe!
 I have no idea what I'm doing 😂 but I'm here for a good time. 
 I’m interested in all things data analytics and software development
+
 Right now I work with Shipt HQ
-- My email is ghilliard@shipt.com 
+- email is ghilliard@shipt.com 
 
 
 <!---
