@@ -1,6 +1,7 @@
-- Hello there! 👋 My name is Gabe! 
-- I’m interested in all things data analytics and software development
-- I’m currently learning how to read and write basic code while working with Shipt!
+# What's up?! My name is Gabe!
+I have no idea what I'm doing 😂 but I'm here for a good time. 
+I’m interested in all things data analytics and software development
+Right now I work with Shipt HQ
 - My email is ghilliard@shipt.com 
 
 
